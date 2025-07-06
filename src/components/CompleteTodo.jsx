@@ -13,7 +13,7 @@ const CompleteArea = styled.div`
     border-radius: 8px;
 `;
 
-export const CompleteTodo = (props) => {
+export const CompleteTodo = () => {
     const {
         filteredCompleteTodos,
         onClickBack,
